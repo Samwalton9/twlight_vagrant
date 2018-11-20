@@ -1,6 +1,6 @@
 # Setting up TWLight in the Wikimedia Cloud VPS environment
 
-This guide is an overview of how to setup the Library Card platform for use in the Wikimedia Cloud VPS environment, where the production site is currently hosted, for both recreating or 
+This guide is an overview of how to setup the Library Card platform for use in the Wikimedia Cloud VPS environment, where the production site is currently hosted.
 
 # Access
 
